@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Our story – Kate Coleridge, Tanya Lund and Hadleigh & Co.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+After having our children, we both decided not to return to corporate life and to use our combined marketing and business development experience of more than 20 years to help start-ups and small to medium sized businesses to grow. And so, Hadleigh & Co was formed early 2018.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+We have spent much of our careers marketing professional corporate companies, both in Australia and the United Kingdom. Alongside this we are both fully qualified as marketing professionals and are passionate about what we do.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+We have always loved marketing and before starting Hadleigh & Co we both felt there was more we could do with what we had learned throughout our diverse careers to help others. We had a strong belief that in starting our own business it would give us an opportunity to share our passion for marketing and to collaboratively work with businesses to achieve value out of their marketing budgets while empowering them to meet the needs of their business and clients.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Why choose us
+
+We know how time consuming it can be to market your business effectively or even know where to begin or how to invigorate your marketing activities you may have invested in already.
+
+Whether you need a strategic marketing review, creation of a new marketing plan, an outsourced marketing function or assistance in undertaking a specific marketing project, Hadleigh & Co will take the time to get to know you and your business. To understand the passion, vision and drive behind your business – and the challenges of marketing in a competitive environment. For us, being part of a business’s journey to success is one of the greatest rewards.
+
+We have created three powerful packages to step you through the marketing and business development process from planning to delivering your key targets for successful growth. They can be tailored to suit the individual business needs.
+
+> Thank you [Tanya Lund](https://www.linkedin.com/in/tanya-lund-41169320/) and [Kate Coleridge](https://www.linkedin.com/in/hadleighandco-kate-coleridge-marketing-strategies/)  – your expertise and professionalism are incredible. After our strategic marketing planning workshop, I was able to see my business from a new perspective. Your marketing action plan and direction is easy executable for a lay-person like myself to follow.
+- Lou-Ann Gibson 
+Owner, HR Sustain
